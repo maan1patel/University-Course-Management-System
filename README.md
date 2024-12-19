@@ -1,5 +1,5 @@
 # University-Course-Management-System  
-*University Course Management System by Hemil and Maan*  
+*University Course Management System by Maan and Hemil*  
 
 ## Overview  
 The Course Management System is a comprehensive platform designed to streamline university course administration. It provides tools for managing professors, courses, and students while integrating functionalities for viewing and organizing course-related data. This project is implemented in *Python* and utilizes *SQLite* for efficient database operations.  
